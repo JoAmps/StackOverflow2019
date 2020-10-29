@@ -10,8 +10,6 @@ In this project, i analyzed the responses of over 70000 people who partook in th
 # File Descriptions
 #### Project stackoverflow new- The data cleaning file
 #### Clean data - The Exploratory data analysis file with charts and tables to explain findings
-#### survey_results_public - csv data file for the survey responses
-#### survey_results_schema- csv data file for the metadata
 
 ## Project interactions
 Anyone can look at the data and find what they want from it. The charts and tables are easy to read to understand and anyone that wants answers to anything aside what i answered can easily do so by looking at the visualizations. Also, the code is easy to read and understand and can be replicated easily by anyone  
